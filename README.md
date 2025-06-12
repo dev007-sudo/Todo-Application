@@ -31,7 +31,7 @@ A sleek and responsive ToDo application that lets you manage your daily tasks wi
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript,React
 - **Deployment**: Netlify
 
 ---
