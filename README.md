@@ -1,12 +1,59 @@
-# React + Vite
+# 📝 ToDo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-brightgreen?style=for-the-badge&logo=netlify)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-Currently, two official plugins are available:
+A sleek and responsive ToDo application that lets you manage your daily tasks with ease. Built using HTML, CSS, and JavaScript, this project supports all essential task operations including create, update, delete, and clear all.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+### Task Input View
+![Task Input](./todosc1.PNG)
+
+### Completed and Active Tasks
+![Task List](./todosc2.PNG)
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ✏️ Mark tasks as completed (with strike-through)
+- 🔄 Update task status
+- 🗑️ Delete individual tasks
+- 🧹 Clear all tasks
+- ⏰ Live Date and Time display
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Deployment**: Netlify
+
+---
+
+## 📦 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to the project folder:
+```bash
+cd your-repo-name
+```
+
+3. Open `index.html` in your browser.
+
+### 🙋‍♂️  Author
+**[Akash Shukla](https://github.com/dev007-sudo)**  
+Computer Science Engineer
+
+
+### 🧾 License
+This project is open source and available under the MIT License.
