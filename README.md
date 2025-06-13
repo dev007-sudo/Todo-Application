@@ -5,6 +5,7 @@
 
 A sleek and responsive ToDo application that lets you manage your daily tasks with ease. Built using HTML, CSS, and JavaScript, this project supports all essential task operations including create, update, delete, and clear all.
 
+ Live Demo: [codertodoweb.netlify.app](https://codertodoweb.netlify.app)
 
 ---
 
